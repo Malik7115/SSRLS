@@ -31,7 +31,7 @@ int main(int, char**) {
     Mat Centroids;
 
     cout << "Hello, world!\n";
-    VideoCapture cap("123.mp4",0);
+    VideoCapture cap("123.mp4",0); //change name according to the name of vid
     namedWindow("Gray Scale", WINDOW_AUTOSIZE);
 
     createTrackbar("Thresh Adjust", "Gray Scale", 

@@ -1,4 +1,4 @@
-# SSRLS
+# State Space Recursive Least Squares (SSRLS)
 SSRLS Tracker 
 
 Completed Tracker for python
